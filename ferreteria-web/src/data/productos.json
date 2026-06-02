@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "nombre": "Taladro",
+    "categoria": "Herramientas",
+    "imagen": "./productos/taladro.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Sopladora",
+    "categoria": "Electricidad",
+    "imagen": "./productos/sopladora.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Cortadora de Cesped",
+    "categoria": "Sanitarios",
+    "imagen": "/productos/pasto.jpg"
+    
+  },
+
+
+  {
+    "id": 4,
+    "nombre": "Hidrolavadora",
+    "categoria": "Sanitarios",
+    "imagen": "./productos/hidro.png"
+    
+  }
+
+  
+]
+
